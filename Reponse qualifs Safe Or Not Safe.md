@@ -29,7 +29,7 @@ Suite à la demande de qualification sur 42.249.36.52 situé en Chine. Le retour
 A ce jour, en date du 08/11/2021, l'IP 42.249.36.52 est safe.
 
 
-###################################################################################################################################
+#########################################################################################################################
 
 
 ## Reponse qualif Starwars
@@ -40,7 +40,7 @@ Le score VT est de 0/91 et 0/89, ils ne semblent pas pertinent mais permettent t
 Nous préconisons une mise en liste noire des adresses IP ainsi que du domaine towel.blinkenlights.nl et une mise en place de règle sur les pare-feu.
 
 
-###################################################################################################################################
+#########################################################################################################################
 
 
 ## Reponse qualif TOR
