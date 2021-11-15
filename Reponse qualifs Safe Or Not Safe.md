@@ -19,7 +19,7 @@ Le verdict est malveillant pour L'ip 104.131.11.150 et l'ip 45.123.3.54 a 56 por
 Nous préconisons une mise en liste noire des adresses IP et une mise en place de règle sur les pare-feu.
 
 
-###
+######
 
 
 Suite à la demande de qualification sur 42.249.36.52 situé en Chine. Le retour de qualification montre que 42.249.36.52 a un VT score à 0/89, un Spyse score abuse à 0 et dans Ipqualityscore le score de fraude est à 0.
